@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5744cb8a.css",
+    "main.js": "/static/js/main.a29b7d44.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/my_pic.jpg": "/static/media/my_pic.779640f2ecb7a330dc49.jpg",
+    "static/media/jspl.png": "/static/media/jspl.f893a605c26d719a52f6.png",
+    "static/media/welcome_img.png": "/static/media/welcome_img.0932b755e8a24ca5a115.png",
+    "static/media/AM.png": "/static/media/AM.c83f9056716ab7aa18c0.png",
+    "static/media/pageNotFound.jpg": "/static/media/pageNotFound.a1679e722d6bb76c0c23.jpg",
+    "static/media/avtec.png": "/static/media/avtec.b36f65b2c0353bf0107d.png",
+    "static/media/bg1.jpg": "/static/media/bg1.dc1a093683b16fdd32d4.jpg",
+    "index.html": "/index.html",
+    "main.5744cb8a.css.map": "/static/css/main.5744cb8a.css.map",
+    "main.a29b7d44.js.map": "/static/js/main.a29b7d44.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5744cb8a.css",
+    "static/js/main.a29b7d44.js"
+  ]
+}
