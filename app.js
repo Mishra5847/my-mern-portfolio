@@ -20,11 +20,7 @@ app.use(require("./Routes/Routes.js"));
 
 
 //_______________________serving the frontend_______________________________ 
-import path from 'path';
-import { fileURLToPath } from 'url';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const path = require('path');
 app.use(express.static(path.join(__dirname, "./client/build")));
 
 app.use("*", function(req, res){
